@@ -1,0 +1,16 @@
+body {
+	background: #343b42;
+	color: #eefff2;
+}
+
+h1 {
+	color: #f9b21c;
+}
+
+h2 {
+	color: #51adc7;
+}
+
+.table-hover tbody tr:hover td, .table-hover tbody tr:hover th {
+	background-color: rgba(81, 173, 199, 0.13);
+}
