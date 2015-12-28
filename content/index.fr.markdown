@@ -5,8 +5,14 @@ comment: La liste de service sur happykiller.net
 header: [Code, Auteur, Description, Rejoindre]
 content:
     - [PMA, {mail:happykiller@happykiller.net, label: Happykiller}, Serveur PhpMyAdmin, http://pma.happykiller.net]
-    - [RING, {mail:happykiller@happykiller.net, label: Happykiller}, Management, http://ring.happykiller.net]
     - [WIKI, {mail:happykiller@happykiller.net, label: Happykiller}, MediaWiki, http://wiki.happykiller.net]
     - [CDN, {mail:happykiller@happykiller.net, label: Happykiller}, Réseaux de distribution de contenu, http://cdn.happykiller.net]
+    - [ODA, {mail:happykiller@happykiller.net, label: Happykiller}, Documentation pour le Framework ODA, http://oda.happykiller.net]
+    - [RING, {mail:happykiller@happykiller.net, label: Happykiller}, Plateforme de management, http://ring.happykiller.net]
+    - [HOW, {mail:happykiller@happykiller.net, label: Happykiller}, Platforme de statistique pour HeartStone, http://how.happykiller.net]
+    - [LFJFR, {mail:happykiller@happykiller.net, label: Happykiller}, Platforme Curriculum vitae, http://lfjfr.happykiller.net]
+    - [OTR, {mail:happykiller@happykiller.net, label: Happykiller}, Platforme pour aide au "Ticket Restaurant", http://otr.happykiller.net]
+    - [POK, {mail:happykiller@happykiller.net, label: Happykiller}, Platforme Poker, http://pok.happykiller.net]
+    - [AMAPK, {mail:happykiller@happykiller.net, label: Happykiller}, Platforme AMAP, http://amapk.happykiller.net]
 ---
 [Administrator](mailto:administrator@happykiller.net)
