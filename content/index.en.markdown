@@ -13,6 +13,7 @@ content:
     - [LFJFR, {mail:happykiller@happykiller.net, label: Happykiller}, Platform Curriculum vitae, http://lfjfr.happykiller.net]
     - [OTR, {mail:happykiller@happykiller.net, label: Happykiller}, Platform for help "Ticket Restaurant", http://otr.happykiller.net]
     - [POK, {mail:happykiller@happykiller.net, label: Happykiller}, Platform Poker, http://pok.happykiller.net]
+    - [CHOP, {mail:happykiller@happykiller.net, label: Happykiller}, Platform training, http://chop.happykiller.net]
     - [NBA, {mail:happykiller@happykiller.net, label: Happykiller}, Platform for Illidan Basket, http://nba.happykiller.net]
     - [AMAPK, {mail:happykiller@happykiller.net, label: Happykiller}, Platform AMAP, http://amapk.happykiller.net]
 ---
