@@ -10,7 +10,7 @@ content:
     - [ODA, {mail:happykiller@happykiller.net, label: Happykiller}, Documentation pour le Framework ODA, http://oda.happykiller.net]
     - [RING, {mail:happykiller@happykiller.net, label: Happykiller}, Plateforme de management, http://ring.happykiller.net]
     - [HOW, {mail:happykiller@happykiller.net, label: Happykiller}, Platforme de statistique pour HeartStone, http://how.happykiller.net]
-    - [LFJFR, {mail:happykiller@happykiller.net, label: Happykiller}, Platforme Curriculum vitae, http://lfjfr.happykiller.net]
+    - [LFJFR, {mail:happykiller@happykiller.net, label: Happykiller}, Platforme Curriculum vitae, http://lfjfr.happykiller.net?key=fuel]
     - [OTR, {mail:happykiller@happykiller.net, label: Happykiller}, Platforme pour aide au "Ticket Restaurant", http://otr.happykiller.net]
     - [POK, {mail:happykiller@happykiller.net, label: Happykiller}, Platforme Poker, http://pok.happykiller.net]
     - [CHOP, {mail:happykiller@happykiller.net, label: Happykiller}, Platforme pour formation, http://chop.happykiller.net]
