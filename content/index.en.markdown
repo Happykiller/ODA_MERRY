@@ -15,6 +15,6 @@ content:
     - [POK, {mail:happykiller@happykiller.net, label: Happykiller}, Platform Poker, http://pok.happykiller.net]
     - [CHOP, {mail:happykiller@happykiller.net, label: Happykiller}, Platform training, http://chop.happykiller.net]
     - [NBA, {mail:happykiller@happykiller.net, label: Happykiller}, Platform for Illidan Basket, http://nba.happykiller.net]
-    - [AMAPK, {mail:happykiller@happykiller.net, label: Happykiller}, Platform AMAP, http://amapk.happykiller.net]
+    - [ABC, {mail:happykiller@happykiller.net, label: Happykiller}, Platform ABC, http://abc.happykiller.net]
 ---
 [Administrator](mailto:administrator@happykiller.net)
